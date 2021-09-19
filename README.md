@@ -8,3 +8,4 @@
 
 <img src = "https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src = "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src = "https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src = "https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/> <img src = "https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jadeidol1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
