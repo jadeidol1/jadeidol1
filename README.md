@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java Script-#F7DF1E?style=flat-square&logo=Java Script&logoColor=white"/>
 
 <!--
 **jadeidol1/jadeidol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
