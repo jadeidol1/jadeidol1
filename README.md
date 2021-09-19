@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/jadeidol1?style=social
+<img src = "https://img.shields.io/github/followers/jadeidol1?style=social">
 <!--
 **jadeidol1/jadeidol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
