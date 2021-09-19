@@ -1,4 +1,4 @@
-<img src = "https://img.shields.io/github/followers/jadeidol1?style=social"> 
+<img src = "https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=qu13210@gmail.com&logoColor=white"/> <img src = "https://img.shields.io/github/followers/jadeidol1?style=social"> 
 
 # Skills👍 
 
