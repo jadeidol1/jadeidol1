@@ -1,4 +1,4 @@
-<img src = "https://www.codewars.com/users/jadeidol1/badges/micro"></a><img src = "https://img.shields.io/badge/qu13210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src = "https://img.shields.io/github/followers/jadeidol1?style=social"> 
+<div align = "center"> <img src = "https://www.codewars.com/users/jadeidol1/badges/micro"></a><img src = "https://img.shields.io/badge/qu13210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src = "https://img.shields.io/github/followers/jadeidol1?style=social"> </div>
 
 <div align="center"><h1>🛠 Skills 🛠</h1></div>
 
